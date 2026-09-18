@@ -1,7 +1,7 @@
 
 
 let final = "";
-let string = ("hello everybody! have a great day")
+let string = ("hello everybody! have a great amazing wonderful day")
 
 for (let i = 0; i < string.length; i++) {
     

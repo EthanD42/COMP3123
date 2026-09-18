@@ -18,4 +18,4 @@ function largestInt(nums){
     return largest;
 }
 
-console.log(largestInt([3, 7, 200, 0, 0, 9, 4]));
+console.log(largestInt([3, 7, 20, 0, 1000, 9, 4]));

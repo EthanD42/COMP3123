@@ -18,4 +18,4 @@ function findAngle(angle) {
 
 }
 
-console.log(findAngle(-20));
+console.log(findAngle(180));

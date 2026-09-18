@@ -13,4 +13,4 @@ function lastThree(string) {
 }
 
 
-console.log(lastThree("Everybody"));
+console.log(lastThree("Wonderful"));
